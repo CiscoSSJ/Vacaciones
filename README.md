@@ -19,4 +19,5 @@
 `sudo mv /etc/vsftpd.conf /etc/vsftpd_back.conf`
 
 **Copiar el archivo vsftpd.conf del repositorio**
+  
 `sudo nano /etc/vsftpd.conf`
